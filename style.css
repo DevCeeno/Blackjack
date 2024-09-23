@@ -2,7 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
-}
+}  
 .container {
     background-color: darkgreen;
     width: 100%;
@@ -38,4 +38,4 @@ button {
 }
 #player-el {
     margin-top: 1em;
-}
+
